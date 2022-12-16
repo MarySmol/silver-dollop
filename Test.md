@@ -27,3 +27,4 @@ https://www.1zoom.ru/big2/278/293622-blackangel.jpg
  
 
 
+Информация для Vetki
