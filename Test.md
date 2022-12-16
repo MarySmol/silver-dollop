@@ -12,3 +12,5 @@
 * *Git checkout* - выбрать версию, ввести 5 символов из уникального кода
 * Ctrl+S - cохранение текста
 * *Git checkot master* - самая актуальная версия коммитов
+https://www.1zoom.ru/big2/278/293622-blackangel.jpg
+
